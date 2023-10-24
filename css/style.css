@@ -97,3 +97,87 @@ header{
 .b-img img{
 	width:100%;
 }
+/*banner end*/
+/*success start*/
+.success{
+     padding: 60px 0;
+}
+.s-content{
+       overflow: hidden;
+}
+.s-left{
+	width: 40%;
+	float: left;
+	text-align: right;
+	padding: 0 10px 0 20px;
+}
+.s-left h2{
+	font-family: sans-serif;
+    font-size:40px ;
+    font-weight:700 ;
+    color:#F15767 ; 
+    margin: 0 0 10px;
+
+}
+.s-left p{font-family: sans-serif;
+	       font-size:16px ;
+          font-weight:400 ;
+          color:#0F2656 ;
+          margin: 0;
+          line-height: 25px;
+          word-spacing: 1px;
+}
+.s-right{
+	 width: 50%;
+	float: right;
+	padding: 0 20px 0 10px;
+   
+}
+.s-right h1{
+	font-family: sans-serif;
+	       font-size:42px ;
+          font-weight:700 ;
+          color:#0F2656 ;
+          line-height: 50px;
+          margin: 0;        
+}
+/*success end*/
+/*feature start*/
+.feature{
+
+}
+.f-content{
+	overflow: hidden;
+}
+.f-single{
+	width: 28%;
+	font-family: sans-serif;
+	color: #0F2656;
+	padding: 30px 1.5% 45px;
+	float: left;
+	margin-right:2.5% ;
+}
+.f-single:last-child{
+	margin-right: 0;
+}
+.pink{background-color: #FDEBED}
+.green{background-color: #EBF9F4}
+.yellow{background-color: #FFF7EB;}
+.f-img{}
+.f-img img{
+	width: 100%;
+}
+.f-single h2{
+      margin: 20px 0;
+      font-size: 22px;
+      font-weight: 700;
+}
+.f-single p{
+	font-size: 16px;
+	font-weight: 400;
+	margin: 0;
+}
+/*feature end*/
+/*footer start*/
+
+/*footer end*/
